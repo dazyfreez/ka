@@ -6,7 +6,7 @@ public class index {
         int n = sc.nextInt();
         int[] f = new int[n];
         sc.close();
-        System.out.println(f.length);
+        System.out.println("Das array " + f.length + " lang ist:");
         
     }
 }
