@@ -4,7 +4,7 @@ public class index {
         System.out.println("Wie lange soll das array sein?");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int[] array = new int[n];
+        int[] f = new int[n];
         sc.close();
         
     }
