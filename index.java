@@ -8,5 +8,6 @@ public class index {
         sc.close();
         System.out.println("Das array " + f.length + " lang ist:");
         
+    
     }
 }
