@@ -6,6 +6,7 @@ public class index {
         int n = sc.nextInt();
         int[] f = new int[n];
         sc.close();
+        System.out.println(f.length);
         
     }
 }
